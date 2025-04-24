@@ -1,0 +1,40 @@
+_repo: The-King-s-Messenger_75905
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Snapp, Frank
+    gutenberg_agent_id: '35560'
+    url: http://www.gutenberg.org/2009/agents/35560
+creator:
+  author:
+    agent_name: Crawford, F. Marion (Francis Marion)
+    alias: Crawford, Francis Marion
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '1316'
+    url: http://www.gutenberg.org/2009/agents/1316
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Marion_Crawford
+description: ''
+gutenberg_issued: '2025-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75905'
+language: en
+pgterms:marc904: https://archive.org/details/sim_cosmopolitan_1907-11_44_1/page/88
+pgterms:marc905: 20250415103846crawford
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Roger Frank
+publication_note: '  $aNew York :$bInternational Magazine Company, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Produced from the November 1907 issue of Cosmopolitan Magazine.
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Supernatural -- Fiction'
+- !lcsh 'Youth and death -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The King's Messenger
+url: http://www.gutenberg.org/ebooks/75905
