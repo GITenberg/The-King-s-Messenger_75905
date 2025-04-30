@@ -5,6 +5,9 @@ contributor:
     agent_name: Snapp, Frank
     gutenberg_agent_id: '35560'
     url: http://www.gutenberg.org/2009/agents/35560
+covers:
+- cover_type: archival
+  image_path: 75905-h/images/cover.jpg
 creator:
   author:
     agent_name: Crawford, F. Marion (Francis Marion)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1316
     wikipedia: https://en.wikipedia.org/wiki/Francis_Marion_Crawford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75905#The-King-s-Messenger
 gutenberg_issued: '2025-04-21'
 gutenberg_type: Text
 identifiers:
